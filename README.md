@@ -1,5 +1,6 @@
-## Hi there 👋
 
+<img align="right" alt="coding" widhth="400" src="https://tenor.com/bjp0b.gif">
+## Hi there, i'm Lathifah Ufaira👋
 # 💫 About Me:
 I’m currently learning C++, python<br>I'm a beginner in this field<br>How to reach me lathifahufaira425@gmail.com<br>Fun fact I think i'm funny
 
