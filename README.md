@@ -1,4 +1,6 @@
-[![MasterHead](https://tenor.com/bjp0b.gif)](https://github.com/in/LathifahUfaira)
+
+# My GIF
+[![MasterHead](https://github.com/LathifahUfaira/LathifahUfaira/https://tenor.com/bfib3.gif)]
 
 ## Hi there, i'm Lathifah Ufaira👋
 
