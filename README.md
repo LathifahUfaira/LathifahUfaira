@@ -1,6 +1,6 @@
 
 # My GIF
-[![MasterHead](https://github.com/LathifahUfaira/LathifahUfaira/https://tenor.com/bfib3.gif)]
+[![MasterHead](https://github.com/LathifahUfaira/LathifahUfaira/Cool-GIFs-For-GitHub)]
 
 ## Hi there, i'm Lathifah Ufaira👋
 
