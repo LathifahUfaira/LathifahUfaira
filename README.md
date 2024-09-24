@@ -1,7 +1,3 @@
-
-# My GIF
-![](https://github.com/LathifahUfaira/LathifahUfaira/https://tenor.com/embed.js)
-
 ## Hi there, i'm Lathifah Ufaira👋
 
 # 💫 About Me:
